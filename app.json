@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "SIKAMU Mobile",
+    "slug": "sikamu-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F0F0F",
+      "autoHide": true,
+      "hideDuration": 0,
+      "contentFit": "contain",
+      "imageResizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sikamu.mobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0F0F0F"
+      },
+      "splash": {
+        "image": "./assets/splash-icon.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#0F0F0F",
+        "autoHide": true,
+        "hideDuration": 0,
+        "contentFit": "contain",
+        "imageResizeMode": "contain"
+      },
+      "usesCleartextTraffic": true,
+      "package": "com.sikamu.mobile"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#ffffff"
+        }
+      ],
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
