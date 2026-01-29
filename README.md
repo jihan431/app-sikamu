@@ -17,6 +17,9 @@ File instalasi versi terbaru dapat diunduh melalui tautan berikut:
 - **Navigation**: React Navigation
 - **Storage**: AsyncStorage
 
+## Keamanan & Privasi
+Aplikasi ini bersifat sebagai "wrapper" pintar yang menghubungkan perangkat langsung ke layanan SIKAMU. Tidak ada server perantara yang digunakan untuk menangkap atau menyimpan data login pengguna.
+
 ## Panduan Pengembangan Lokal
 
 1. **Persiapan**
