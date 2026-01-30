@@ -2,11 +2,6 @@
 
 Aplikasi mobile akademik untuk mempermudah akses layanan mahasiswa berbasis React Native dan Expo.
 
-## Fitur
-- **Akademik**: Akses Kartu Rencana Studi (KRS).
-- **KPU**: Integrasi informasi KPU Mahasiswa.
-- **Profil**: Manajemen identitas dan sesi pengguna.
-
 ## Download
 File instalasi versi terbaru dapat diunduh melalui tautan berikut:
 
@@ -17,10 +12,7 @@ File instalasi versi terbaru dapat diunduh melalui tautan berikut:
 - **Navigation**: React Navigation
 - **Storage**: AsyncStorage
 
-## Keamanan & Privasi
-Aplikasi ini bersifat sebagai "wrapper" pintar yang menghubungkan perangkat langsung ke layanan SIKAMU. Tidak ada server perantara yang digunakan untuk menangkap atau menyimpan data login pengguna.
-
-## Panduan Pengembangan Lokal
+## Panduan Pengembangan (develover)
 
 1. **Persiapan**
    ```bash
