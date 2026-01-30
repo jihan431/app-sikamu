@@ -8,9 +8,9 @@ File instalasi versi terbaru dapat diunduh melalui tautan berikut:
 [Download SIKAMU Mobile APK](https://github.com/jihan431/app-sikamu/releases/latest)
 
 ## 🧱 Stack Teknologi
-- **Framework**: React Native (Expo SDK 54)
-- **Navigation**: React Navigation
-- **Storage**: AsyncStorage
+- ⚛️ **Framework**: React Native (Expo SDK 54)
+- 🧭 **Navigation**: React Navigation
+- 💾 **Storage**: AsyncStorage
 
 ## 🧑‍💻 Panduan Pengembangan (Developer)
 Pastikan Node.js dan npm/yarn sudah terinstal di sistem Anda.
