@@ -13,8 +13,6 @@ File instalasi versi terbaru dapat diunduh melalui tautan berikut:
 - **Storage**: AsyncStorage
 
 ## Panduan Pengembangan (develover)
-
-1. **Persiapan**
    ```bash
    git clone [https://github.com/jihan431/app-sikamu.git](https://github.com/jihan431/app-sikamu.git)
    cd app-sikamu
